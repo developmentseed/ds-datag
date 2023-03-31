@@ -4,8 +4,10 @@
 
 ```sh
 docker-compose build
-docker-compose run ds_data_generation bash
+docker-compose up
 ```
+
+It will start a notebok enviroment to start working. 
 
 E.g
 
