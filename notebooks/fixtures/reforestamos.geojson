@@ -1,0 +1,42 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "class": "forest",
+                "project": "reforestamos_2022",
+                "building": "yes"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -100.63508753494,
+                            25.54213171719
+                        ],
+                        [
+                            -100.63513043494,
+                            25.56315550361
+                        ],
+                        [
+                            -100.59002643494,
+                            25.56288450379
+                        ],
+                        [
+                            -100.59015513494,
+                            25.54193811732
+                        ],
+                        [
+                            -100.63508753494,
+                            25.54213171719
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
